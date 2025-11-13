@@ -179,8 +179,6 @@ int main() {
 
     //problem 10
 
-#include <iostream>
-using namespace std;
 
 int main() {
     int n;
